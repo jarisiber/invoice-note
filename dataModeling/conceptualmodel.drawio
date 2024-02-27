@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T09:39:27.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HIQ8BD7aFqmA-W9W-Ons" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:40:55.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bSFhb3ist6mLZxA0Lr9K" version="23.1.7" type="github">
   <diagram name="Page-1" id="NHcilMc50lBPF0jwCKvE">
     <mxGraphModel dx="880" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="yoadjGENFxD7IGxSiY7t-3" value="Role" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="80" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yoadjGENFxD7IGxSiY7t-4" value="name&lt;br&gt;permissions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yoadjGENFxD7IGxSiY7t-3">
+        <mxCell id="yoadjGENFxD7IGxSiY7t-4" value="name(string)&lt;br&gt;permissions(string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yoadjGENFxD7IGxSiY7t-3">
           <mxGeometry y="26" width="140" height="74" as="geometry" />
         </mxCell>
         <mxCell id="yoadjGENFxD7IGxSiY7t-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TjEieBsBcoyyrpjg4sSu-2" target="yoadjGENFxD7IGxSiY7t-4">
