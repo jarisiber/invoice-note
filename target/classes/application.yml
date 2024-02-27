@@ -2,7 +2,7 @@
 #db config for deployment on server
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/invoice_note
+    url: jdbc:mysql://localhost:3306/invoice_db
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: Kalisari13790
